@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola buenas
+=======
+La clase es grande
+>>>>>>> taller-info
